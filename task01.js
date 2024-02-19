@@ -5,6 +5,6 @@ const exponentiation = () => {
             console.log(`${i} в степени ${y}: ${i ** y}`)
         }
     }
-}
+};
 
 exponentiation();
